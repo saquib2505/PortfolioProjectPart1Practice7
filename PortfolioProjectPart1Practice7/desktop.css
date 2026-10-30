@@ -1,0 +1,21 @@
+.col-2  { width: 16.66%; }
+.col-4  { width: 33.33%; }
+.col-6  { width: 50%; }
+
+.nav-logo{
+    text-align: left;
+}
+.nav-heading h1{
+    text-align:right;
+
+}
+.navbar-menu{
+    flex-direction: row;
+    display:flex;
+    justify-content: flex-end;
+}
+.navbar-menu a{
+    padding: 5px 10px;
+    margin: 20px 0;
+    background-color: transparent;
+}
